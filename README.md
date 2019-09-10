@@ -2,15 +2,19 @@
 Convolutional Neural Network and image segmentation for land classification of high resolution multispectral Planet imagery   
 
 ## Collaborators  
-[Nga (Nancy) Nguyen](https://github.com/NgaNguyen87)  
+[Nga (Nancy) Nguyen](https://github.com/NgaNguyen87)
+  
 [Claire Miles](https://github.com/clairemiles)  
+
 [Joshua Driscol](https://github.com/Jakidxav)
 
-<br>
-[Matt Olson](https://github.com/mattols)<br>
-[Mike Leech](https://github.com/mikeleech)<br>
-[Shashank Bhushan](https://github.com/ShashankBice) <br>
-[Michelle Hu](https://github.com/jmichellehu) <br>
+[Matt Olson](https://github.com/mattols)
+
+[Mike Leech](https://github.com/mikeleech)
+
+[Shashank Bhushan](https://github.com/ShashankBice)
+
+[Michelle Hu](https://github.com/jmichellehu)
 
 
 ### Team Lead:  
