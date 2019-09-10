@@ -6,12 +6,12 @@ Convolutional Neural Network and image segmentation for land classification of h
 [Claire Miles](https://github.com/clairemiles)  
 [Joshua Driscol](https://github.com/Jakidxav)
 
+
 [Matt Olson](https://github.com/mattols)
 [Mike Leech](https://github.com/mikeleech)
 [Shashank Bhushan](https://github.com/ShashankBice)  
 [Michelle Hu](https://github.com/jmichellehu)  
 
-#https://github.com/Rhythm99
 
 ### Team Lead:  
 Michelle Hu
@@ -21,6 +21,13 @@ Claire Miles and Joshua Driscol - Tensorflow, Keras
 Shashank Bhushan - Planet data and rasters  
 
 
+## Introduction
+Background reading:
+- [DeepSUM paper](https://arxiv.org/pdf/1907.06490.pdf)
+- Some paper using neural network for land classification?
+- Some paper for land segmentation?
+- [Tensorflow 2.0 Documentation](https://www.tensorflow.org/beta/)
+
 ## Files
 
 * `.gitignore`
@@ -28,7 +35,13 @@ Shashank Bhushan - Planet data and rasters
 * `environment.yml`
 <br> `conda` environment description needed to run this project.  
 * `README.md`
-<br> Description of the project and personnel. [Sample](https://geohackweek.github.io/wiki/github_project_management.html#project-guidelines)
+<br> Description of the project and personnel. 
+
+We will be using 3m resolution data from [Planet Labs](https://www.planet.com/) at Mount Rainier in Washington state. The purpose of this repository is to implement novel techniques for analyzing geospatial data sets using neural networks:
+- snow vs. land cover segmentation
+- techniques for stacking coarse resolution images to train them for upsampling like in [DeepSum](https://github.com/diegovalsesia/deepsum) 
+
+[Sample](https://geohackweek.github.io/wiki/github_project_management.html#project-guidelines)
 
 
 ## Folders
