@@ -28,6 +28,7 @@ Shashank Bhushan - Planet data and rasters
 ## Introduction
 Background reading:
 - [DeepSUM paper](https://arxiv.org/pdf/1907.06490.pdf)
+- [Ensemble CNN for land classification](https://ieeexplore.ieee.org/abstract/document/8334746)
 - Some paper using neural network for land classification?
 - Some paper for land segmentation?
 - [Tensorflow 2.0 Documentation](https://www.tensorflow.org/beta/)
