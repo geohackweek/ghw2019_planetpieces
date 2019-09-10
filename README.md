@@ -1,11 +1,13 @@
 # Planet Pieces
-Convolutional Neural Network and image segmentation for land classification of high resolution multispectral Planet imagery    
+Convolutional Neural Network and image segmentation for land classification of high resolution multispectral Planet imagery   
 
 ## Collaborators  
 [Nga (Nancy) Nguyen](https://github.com/NgaNguyen87)  
 [Claire Miles](https://github.com/clairemiles)  
 [Joshua Driscol](https://github.com/Jakidxav)
 
+[Matt Olson](https://github.com/mattols)
+[Mike Leech](https://github.com/mikeleech)
 [Shashank Bhushan](https://github.com/ShashankBice)  
 [Michelle Hu](https://github.com/jmichellehu)  
 
