@@ -2,15 +2,19 @@
 Convolutional Neural Network and image segmentation for land classification of high resolution multispectral Planet imagery   
 
 ## Collaborators  
-[Nga (Nancy) Nguyen](https://github.com/NgaNguyen87)  
+[Nga (Nancy) Nguyen](https://github.com/NgaNguyen87)
+  
 [Claire Miles](https://github.com/clairemiles)  
+
 [Joshua Driscol](https://github.com/Jakidxav)
 
-
 [Matt Olson](https://github.com/mattols)
+
 [Mike Leech](https://github.com/mikeleech)
-[Shashank Bhushan](https://github.com/ShashankBice)  
-[Michelle Hu](https://github.com/jmichellehu)  
+
+[Shashank Bhushan](https://github.com/ShashankBice)
+
+[Michelle Hu](https://github.com/jmichellehu)
 
 
 ### Team Lead:  
@@ -39,7 +43,7 @@ Background reading:
 
 We will be using 3m resolution data from [Planet Labs](https://www.planet.com/) at Mount Rainier in Washington state. The purpose of this repository is to implement novel techniques for analyzing geospatial data sets using neural networks:
 - snow vs. land cover segmentation
-- techniques for stacking coarse resolution images to train them for upsampling like in [DeepSum](https://github.com/diegovalsesia/deepsum) 
+- techniques for stacking coarse resolution images to train them for upsampling like in [DeepSUM](https://github.com/diegovalsesia/deepsum) 
 
 [Sample](https://geohackweek.github.io/wiki/github_project_management.html#project-guidelines)
 
