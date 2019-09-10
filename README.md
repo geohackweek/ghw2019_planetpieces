@@ -1,35 +1,43 @@
 # Planet Pieces
-Convolutional Neural Network and image segmentation for land classification of high resolution multispectral imagery (Planet - 3m resolution) 
-
-### General Objective
+Convolutional Neural Network and image segmentation for land classification of high resolution multispectral Planet imagery    
 
 ## Collaborators  
-Nga (Nancy) Nguyen
-Claire Miles
-Joshua Driscoll
-Shashank Bhushan
+Nga (Nancy) Nguyen  
+Claire Miles  
+Joshua Driscoll  
+Shashank Bhushan  
+Michelle Hu  
 
-### Team Lead:
-Michelle Hu
+### Team Lead:  
+Michelle Hu  
 
 ### Data Science Leads:  
-Shashank Bhushan
+Claire Miles and Joshua Driscoll - tensorflow keras  
+Shashank Bhushan - Planet data and rasters  
 
-### Datasets
-Planet SR
 
-### Validation Datasets
-[NAIP](https://www.fsa.usda.gov/programs-and-services/aerial-photography/imagery-programs/naip-imagery/)
+## Files
 
-### Tools
-[Keras](https://www.tensorflow.org/guide/keras)
-[DeepSum](https://github.com/diegovalsesia/deepsum)
+* `.gitignore`
+<br> Globally ignored files by `git` for the project.  
+* `environment.yml`
+<br> `conda` environment description needed to run this project.  
+* `README.md`
+<br> Description of the project and personnel. [Sample](https://geohackweek.github.io/wiki/github_project_management.html#project-guidelines)
 
-<Python: geopandas>
 
-### High-level Goals
+## Folders
 
-### Study Sites:
+### `contributors`
+Each team member has their own folder under contributors, where they can work on their contributions. Having a dedicated folder for one-self helps to prevent conflicts when merging with master.  
+
+### `notebooks`
+Notebooks that are considered delivered results for the project should go in here.  
+
+### `scripts`
+Helper utilities that are shared with the team  
+
 
 ### Team Wiki
 Further information can be found on our [team wiki page](https://github.com/ghw2019_planetpieces/wiki)
+
