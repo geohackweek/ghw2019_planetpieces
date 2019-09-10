@@ -2,17 +2,19 @@
 Convolutional Neural Network and image segmentation for land classification of high resolution multispectral Planet imagery    
 
 ## Collaborators  
-Nga (Nancy) Nguyen  
-Claire Miles  
-Joshua Driscoll  
-Shashank Bhushan  
-Michelle Hu  
+[Nga (Nancy) Nguyen](https://github.com/NgaNguyen87)  
+[Claire Miles](https://github.com/clairemiles)  
+[Joshua Driscol](https://github.com/Jakidxav)
+[Shashank Bhushan](https://github.com/ShashankBice)  
+[Michelle Hu](https://github.com/jmichellehu)  
+
+#https://github.com/Rhythm99
 
 ### Team Lead:  
-Michelle Hu  
+Michelle Hu
 
 ### Data Science Leads:  
-Claire Miles and Joshua Driscoll - tensorflow keras  
+Claire Miles and Joshua Driscol - Tensorflow, Keras  
 Shashank Bhushan - Planet data and rasters  
 
 
