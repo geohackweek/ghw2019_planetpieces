@@ -19,7 +19,7 @@ Shashank Bhushan
 Planet SR
 
 ### Validation Datasets
-- [NAIP](https://www.fsa.usda.gov/programs-and-services/aerial-photography/imagery-programs/naip-imagery/
+[NAIP](https://www.fsa.usda.gov/programs-and-services/aerial-photography/imagery-programs/naip-imagery/)
 
 ### Tools
 [Keras](https://www.tensorflow.org/guide/keras)
