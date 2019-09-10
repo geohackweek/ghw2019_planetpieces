@@ -39,5 +39,5 @@ Helper utilities that are shared with the team
 
 
 ### Team Wiki
-Further information can be found on our [team wiki page](https://github.com/ghw2019_planetpieces/wiki)
+Further information can be found on our [team wiki page](https://github.com/geohackweek/ghw2019_planetpieces/wiki)
 
