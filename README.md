@@ -5,6 +5,7 @@ Convolutional Neural Network and image segmentation for land classification of h
 [Nga (Nancy) Nguyen](https://github.com/NgaNguyen87)  
 [Claire Miles](https://github.com/clairemiles)  
 [Joshua Driscol](https://github.com/Jakidxav)
+
 [Shashank Bhushan](https://github.com/ShashankBice)  
 [Michelle Hu](https://github.com/jmichellehu)  
 
