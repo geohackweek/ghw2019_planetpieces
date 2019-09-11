@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 '''
 Helper functions to interact with data and files
 '''
