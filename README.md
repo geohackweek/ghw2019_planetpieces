@@ -40,6 +40,22 @@ Background reading:
 <br> Globally ignored files by `git` for the project.  
 * `environment.yml`
 <br> `conda` environment description needed to run this project.  
+To preserve the conda environment across sessions, please add this line of code into your `~/.condarc` file, or create that file if it does not exist:
+```python
+envs_dirs:
+ - /home/user/conda-envs/
+```
+
+Then run:
+```python
+conda env create -f environment.yml -n planetpieces
+```
+
+And to activate the environment:
+```python
+conda activate planetpieces
+```
+
 * `README.md`
 <br> Description of the project and personnel. 
 

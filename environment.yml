@@ -6,10 +6,9 @@ dependencies:
 - numpy
 - pandas
 - matplotlib
-- keras
 - rasterio
+- ipython
 - pip
 - pip:
-    - "--tensorflow==2.0.0-alpha0"
-    - "--protobuf-3.9.1"
+    - tensorflow==2.0.0-rc0
 
