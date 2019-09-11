@@ -5,9 +5,11 @@ dependencies:
 - python=3.7
 - numpy
 - pandas
+- xarray
 - matplotlib
 - rasterio
 - ipython
+- ipykernel
 - pip
 - pip:
     - tensorflow==2.0.0-rc0
