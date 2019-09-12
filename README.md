@@ -30,8 +30,8 @@ Background reading:
 - [DeepSUM paper](https://arxiv.org/pdf/1907.06490.pdf)
 - [Ensemble CNN for land classification](https://ieeexplore.ieee.org/abstract/document/8334746)
 - [RGB-NIR Image Classification](https://ieeexplore.ieee.org/document/8630948)
-- Some paper using neural network for land classification?
-- Some paper for land segmentation?
+- [Original U-Net paper](https://arxiv.org/pdf/1505.04597.pdf)
+- U-Net architecture borrowed heavily from [this](https://github.com/zizhaozhang/unet-tensorflow-keras/blob/master/model.py) repository.
 - [Tensorflow 2.0 Documentation](https://www.tensorflow.org/beta/)
 
 ## Files
