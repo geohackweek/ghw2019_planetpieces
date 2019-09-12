@@ -22,13 +22,16 @@ def fn_list(thisDir, fn_pattern):
     
     return fns
 
-def read_raster(filename, band=1):
+def read_raster(filename, band=None):
     '''
     Function that reads in raster file and returns a numpy array, along with corresponding no data value
     '''
     
     with rasterio.open(filename) as f:
-        arr = f.read(band)
+        if band is None:
+            arr=f.read()
+        else:
+            arr = f.read(band)
         no_data_value = f.nodata
     return arr, no_data_value
 
