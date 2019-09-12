@@ -30,8 +30,8 @@ Background reading:
 - [DeepSUM paper](https://arxiv.org/pdf/1907.06490.pdf)
 - [Ensemble CNN for land classification](https://ieeexplore.ieee.org/abstract/document/8334746)
 - [RGB-NIR Image Classification](https://ieeexplore.ieee.org/document/8630948)
-- Some paper using neural network for land classification?
-- Some paper for land segmentation?
+- [Original U-Net paper](https://arxiv.org/pdf/1505.04597.pdf)
+- U-Net architecture borrowed heavily from [this](https://github.com/zizhaozhang/unet-tensorflow-keras/blob/master/model.py) repository.
 - [Tensorflow 2.0 Documentation](https://www.tensorflow.org/beta/)
 
 ## Files
@@ -40,6 +40,22 @@ Background reading:
 <br> Globally ignored files by `git` for the project.  
 * `environment.yml`
 <br> `conda` environment description needed to run this project.  
+To preserve the conda environment across sessions, please add this line of code into your `~/.condarc` file, or create that file if it does not exist:
+```python
+envs_dirs:
+ - /home/user/conda-envs/
+```
+
+Then run:
+```python
+conda env create -f environment.yml -n planetpieces
+```
+
+And to activate the environment:
+```python
+conda activate planetpieces
+```
+
 * `README.md`
 <br> Description of the project and personnel. 
 
