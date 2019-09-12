@@ -24,9 +24,9 @@ filename = args.input_file
 xml_fn = filename[:-4]+'_metadata.xml'
 out_fn = filename[:-4]+'_refl.tif'
 
-print("Filename is: ", filename)
-print("XML is: ", xml_fn)
-print("Out filename is: ", out_fn)
+print("\nFile is: ", filename.split('/')[-1])
+# print("XML is: ", xml_fn)
+# print("Out filename is: ", out_fn)
 
 try:
     with rasterio.open(out_fn) as src:
@@ -64,7 +64,7 @@ except:
             value = node.getElementsByTagName("ps:reflectanceCoefficient")[0].firstChild.data
             coeffs[i] = float(value)
 
-    print("Conversion coefficients:", coeffs)
+#     print("Conversion coefficients:", coeffs)
 
 
     # Multiply the Digital Number (DN) values in each band by the TOA reflectance coefficients
