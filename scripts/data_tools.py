@@ -16,7 +16,7 @@ def fn_list(thisDir, fn_pattern):
     
     fns=[]
     for f in glob.glob(thisDir + "/" + fn_pattern):
-        print(f)
+        #print(f)
         fns.append(f)
     fns.sort()
     
