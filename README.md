@@ -21,13 +21,12 @@ Convolutional Neural Network and image segmentation for land classification of h
 Michelle Hu
 
 ### Data Science Leads:  
-Claire Miles and Joshua Driscol - Tensorflow, Keras  
+Claire Miles, Joshua Driscol - Tensorflow, Keras  
 Shashank Bhushan - Planet data and rasters  
-
+Nga Nguyen, Matt Olson - thresholding and visualization
 
 ## Introduction
 Background reading:
-- [DeepSUM paper](https://arxiv.org/pdf/1907.06490.pdf)
 - [Ensemble CNN for land classification](https://ieeexplore.ieee.org/abstract/document/8334746)
 - [RGB-NIR Image Classification](https://ieeexplore.ieee.org/document/8630948)
 - [Original U-Net paper](https://arxiv.org/pdf/1505.04597.pdf)
